@@ -1,3 +1,3 @@
 class tets:
 
-    tets = 2
+    tets = 3
